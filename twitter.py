@@ -8,10 +8,10 @@ neutral=0
 p_tweets=[]
 n_tweets=[]
 neutral_tweets=[]
-consumer_key='b2sjoE3V3FGR57Rk5eVjTPWeF'
-consumer_secret='jzFA5jTVaTH8WvvbEPjVPpS0AHNHLVF3zMi9DTvLSjvjd3fFij'
-access_token='916979137918750720-9uSJJczWsmQwWJtR73InULZevm9zAqC'
-access_token_secret='yYfiAe5fielz2yINqeYcWr1kspF1YjC9Pl8lVWEbZS4rV'
+consumer_key='*************************************'
+consumer_secret='*************************************'
+access_token='*********************************************'
+access_token_secret='********************************************'
 auth=OAuthHandler(consumer_key,consumer_secret)
 auth.set_access_token(access_token,access_token_secret)
 api=API(auth)

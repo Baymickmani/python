@@ -3,7 +3,7 @@ import requests , json
 from datetime import datetime
  
 # enter your api key here
-api_key = "nxubsfu07v"
+api_key = "******************"
  
 # base_url variable to store url
 base_url = "https://api.railwayapi.com/v2/live/train/"
